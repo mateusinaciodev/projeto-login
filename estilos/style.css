@@ -75,11 +75,6 @@ div#formulario > p
     font-size: 0.8em;
 }
 
-div#campo > a
-{
-    text-decoration: none;
-}
-
 a {
     color: #000000;
     text-decoration: none;
