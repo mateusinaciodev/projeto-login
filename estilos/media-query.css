@@ -4,7 +4,7 @@
 {   /*versao para tablets*/
     body
     {
-        background-image: linear-gradient(to top, #9e911e, #6B3406);
+        background-image: linear-gradient(to top, #FFD700, #8B3103);
     }
     section#login
     {
@@ -35,7 +35,7 @@
 {   /*versão para computadores e tvs*/
     body
     {
-        background-image: linear-gradient(to bottom, #9e911e, #6B3406);
+        background-image: linear-gradient(to bottom, #FFD700, #8B3103);
     }
     section#login
     {
